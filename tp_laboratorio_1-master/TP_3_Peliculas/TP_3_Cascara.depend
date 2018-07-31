@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1527834606 source:c:\users\ezequiel\downloads\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"movie.h"
+
+1527832051 c:\users\ezequiel\downloads\tp_3_cascara\tp_3_cascara\funciones.h
+	"movie.h"
+
+1527834607 c:\users\ezequiel\downloads\tp_3_cascara\tp_3_cascara\movie.h
+
+1527898859 source:c:\users\ezequiel\downloads\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"movie.h"
+	"input.h"
+
+1527898197 source:c:\users\ezequiel\downloads\tp_3_cascara\tp_3_cascara\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+	"input.h"
+
+1527897077 source:c:\users\ezequiel\downloads\tp_3_cascara\tp_3_cascara\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1527824020 c:\users\ezequiel\downloads\tp_3_cascara\tp_3_cascara\validaciones.h
+
+1527824582 source:c:\users\ezequiel\downloads\tp_3_cascara\tp_3_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1527897077 c:\users\ezequiel\downloads\tp_3_cascara\tp_3_cascara\input.h
+
+1527965101 source:c:\users\elisca\documents\tp3\tp_3_cascara\tp_3_peliculas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"movie.h"
+
+1527832050 c:\users\elisca\documents\tp3\tp_3_cascara\tp_3_peliculas\funciones.h
+	"movie.h"
+
+1527962235 c:\users\elisca\documents\tp3\tp_3_cascara\tp_3_peliculas\movie.h
+
+1527897076 source:c:\users\elisca\documents\tp3\tp_3_cascara\tp_3_peliculas\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1527824020 c:\users\elisca\documents\tp3\tp_3_cascara\tp_3_peliculas\validaciones.h
+
+1527964112 source:c:\users\elisca\documents\tp3\tp_3_cascara\tp_3_peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"movie.h"
+	"input.h"
+
+1527897076 c:\users\elisca\documents\tp3\tp_3_cascara\tp_3_peliculas\input.h
+
+1527964649 source:c:\users\elisca\documents\tp3\tp_3_cascara\tp_3_peliculas\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+	"input.h"
+
+1527824582 source:c:\users\elisca\documents\tp3\tp_3_cascara\tp_3_peliculas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+
